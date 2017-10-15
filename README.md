@@ -1,0 +1,17 @@
+Read me
+
+List of Programs
+
+BinarySearch 
+BubbuleSort
+FirstChartInStringRepeating
+InsertionSort
+MaximumOccuranceCharacter
+MergeSort
+Pangram
+Permutation
+QuickSort
+RemoveDuplicateFromString
+ReverseOfStringRecursion.java
+SelectionSort
+StringSplit
