@@ -1,16 +1,16 @@
-Read me
+## Java implementation of typical question
 
 List of Programs
-1. BinarySearch
-2. BubbuleSort
-3. FirstChartInStringRepeating
-4. InsertionSort
-5. MaximumOccuranceCharacter
-6. MergeSort
+1. Binary Search
+2. Bubbule Sort
+3. First Char In String Repeating
+4. Insertion Sort
+5. Maximum Occurance Character
+6. Merge Sort
 7. Pangram
 8. Permutation
-9. QuickSort
-10. RemoveDuplicateFromString
-11. ReverseOfStringRecursion.java
-12. SelectionSort
-13. StringSplit
+9. Quick Sort
+10. Remove Duplicate From String
+11. Reverse Of String Recursion
+12. Selection Sort
+13. String Split
