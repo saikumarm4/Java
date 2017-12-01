@@ -1,4 +1,4 @@
-## Java implementation of typical question
+## Java implementation of typical programs
 
 List of Programs
 1. Binary Search
