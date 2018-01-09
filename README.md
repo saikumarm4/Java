@@ -1,6 +1,6 @@
 ## Java implementation of typical programs
 
-Sorting Algorithms
+__Sorting Algorithms__
 1. Bubble Sort
 2. Selection Sort
 3. Merge Sort
@@ -10,7 +10,7 @@ Sorting Algorithms
 7. Radix Sort
 8. Counting Sort
 
-List of Programs
+__List of Programs__
 1. Binary Search
 2. First Char In String Repeating
 3. Maximum Occurance Character
