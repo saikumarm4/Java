@@ -1,5 +1,3 @@
-package five;
-
 import java.util.ArrayList;
 
 public class PermutationPractise {

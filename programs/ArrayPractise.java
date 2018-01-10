@@ -1,8 +1,4 @@
-package five;
-
 import java.util.Arrays;
-
-import sun.security.util.Length;
 
 public class ArrayPractise {
 

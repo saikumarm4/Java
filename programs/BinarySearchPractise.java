@@ -1,5 +1,3 @@
-package five;
-
 public class BinarySearchPractise {
 
 	public static void main(String[] args) {

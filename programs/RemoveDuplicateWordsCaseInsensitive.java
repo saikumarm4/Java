@@ -1,5 +1,3 @@
-package six;
-
 public class RemoveDuplicateWordsCaseInsensitive {
 
 	public static void main(String[] args) {

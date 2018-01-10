@@ -1,5 +1,3 @@
-package five;
-
 public class ElementsAndSumInArray {
 
 	public static void main(String[] args) {
